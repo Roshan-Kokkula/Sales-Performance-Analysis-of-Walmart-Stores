@@ -1,0 +1,19 @@
+product_line,branch,profit_margin,rank_
+"Health and beauty",A,-242.50993617021282,1
+"Food and beverages",A,-267.7330948275862,2
+"Electronic accessories",A,-276.21044166666667,3
+"Fashion accessories",A,-289.74571568627454,4
+"Sports and travel",A,-297.0793305084747,5
+"Home and lifestyle",A,-312.03422307692307,6
+"Fashion accessories",B,-239.51844354838713,1
+"Food and beverages",B,-275.31702999999993,2
+"Electronic accessories",B,-280.4999363636363,3
+"Sports and travel",B,-291.6864677419354,4
+"Home and lifestyle",B,-317.5563099999999,5
+"Health and beauty",B,-341.0894339622643,6
+"Home and lifestyle",C,-279.3814888888889,1
+"Health and beauty",C,-289.09450000000004,2
+"Fashion accessories",C,-300.1035384615385,3
+"Electronic accessories",C,-312.0437363636363,4
+"Sports and travel",C,-316.906488888889,5
+"Food and beverages",C,-325.8082575757576,6

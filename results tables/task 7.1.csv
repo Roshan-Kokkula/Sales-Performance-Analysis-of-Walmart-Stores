@@ -1,0 +1,13 @@
+Customer_type,total_revenue,total_sales,Product_line,rank_
+Member,31358,506,"Food and beverages",1
+Member,28234,493,"Sports and travel",2
+Member,27978,490,"Home and lifestyle",3
+Member,26324,439,"Fashion accessories",4
+Member,25831,428,"Health and beauty",5
+Member,24498,429,"Electronic accessories",6
+Normal,29839,542,"Electronic accessories",1
+Normal,27982,463,"Fashion accessories",2
+Normal,26889,427,"Sports and travel",3
+Normal,25884,421,"Home and lifestyle",4
+Normal,24787,446,"Food and beverages",5
+Normal,23363,426,"Health and beauty",6
